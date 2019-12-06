@@ -8,13 +8,13 @@
     <li>News having KHC in title</li>
 </ul>
 <hr/>
-<h2>2019-11-18 Chart & Pie Chart</h2>
+<h2>2019-11-18 Bar Chart & Pie Chart</h2>
 <ul>
     <li>All news of KHC</li>
     <li>News having KHC in title</li>
 </ul>
 <hr/>
-<h2>2019-11-25 Chart & Pie Chart</h2><br/>
+<h2>2019-11-25 Bar Chart & Pie Chart</h2><br/>
 <ul>
     <li>All news of KHC</li>
     <li>News having KHC in title</li>
@@ -24,7 +24,7 @@
     <li>News having KHC in title with keyword "My Little Old Boy"</li>
 </ul>
 <hr/>
-<h2>2019-11-25 Chart & Pie Chart</h2><br/>
+<h2>2019-11-25 Bar Chart & Pie Chart</h2><br/>
 <ul>
     <li>All news of KHC</li>
     <li>News having KHC in title</li>
@@ -34,7 +34,7 @@
     <li>News having KHC in title with keyword "My Little Old Boy"</li>
 </ul>
 <hr/>
-<h2>2019-12-02 Chart & Pie Chart</h2><br/>
+<h2>2019-12-02 Bar Chart & Pie Chart</h2><br/>
 <ul>
     <li>|-All news of KHC</li>
     <li>News having KHC in title</li>
