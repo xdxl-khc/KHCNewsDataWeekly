@@ -50,4 +50,6 @@
     <li>News having KHC in title with keyword "Known Brothers"</li>
     <li>All news of KHC with keyword "My Little Old Boy"</li>
     <li>News having KHC in title with keyword "My Little Old Boy"</li>
+    <li>All news of KHC with keyword "Kim Heechul White Winter"</li>
+    <li>News having KHC in title with keyword "Kim Heechul White Winter"</li>
 </ul>
