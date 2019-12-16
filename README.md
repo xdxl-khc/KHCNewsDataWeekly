@@ -41,3 +41,13 @@
     <li>All news of KHC with keyword "Known Brothers"</li>
     <li>News having KHC in title with keyword "Known Brothers" </li>
 </ul>
+<hr>
+<h2>2019-12-16 Bar Chart & Pie Chart</h2>
+<ul>
+    <li>All news of KHC</li>
+    <li>News having KHC in title</li>
+    <li>All news of KHC with keyword "Known Brothers"</li>
+    <li>News having KHC in title with keyword "Known Brothers"</li>
+    <li>All news of KHC with keyword "My Little Old Boy"</li>
+    <li>News having KHC in title with keyword "My Little Old Boy"</li>
+</ul>
