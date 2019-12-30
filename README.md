@@ -53,3 +53,15 @@
     <li>All news of KHC with keyword "Kim Heechul White Winter"</li>
     <li>News having KHC in title with keyword "Kim Heechul White Winter"</li>
 </ul>
+<hr>
+<h2>2019-12-23 Bar Chart & Pie Chart & Word Cloud(All news only)</h2>
+<ul>
+    <li>All news of KHC</li>
+    <li>News having KHC in title</li>
+</ul>
+<hr>
+<h2>2019-12-30 Bar Chart & Pie Chart & Word Cloud(All news only)</h2>
+<ul>
+    <li>All news of KHC</li>
+    <li>News having KHC in title</li>
+</ul>
